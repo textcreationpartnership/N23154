@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:030607_0000_0FE81C323B173A50"/>
-            <pb facs="tcp:030607_0001_0FE81C388331E2E8"/>
+            <pb facs="unknown:030607_0000_0FE81C323B173A50"/>
+            <pb facs="unknown:030607_0001_0FE81C388331E2E8"/>
             <p>A SERMON, PREACHED AT THE EXECUTION OF MATTHIAS GOTLEIB, FOR MURDER; AT NEWTON, October 28, 1796. By HOLLOWAY WHITFIELD HUNT, A. B. &amp; V. D. M.</p>
             <p>PRINTED IN <hi>NEWTON,</hi> NEW-JERSEY: Nov. <hi>11, 1796</hi>
             </p>
@@ -124,15 +124,16 @@
       </front>
       <body>
          <div type="preface">
-            <pb facs="tcp:030607_0002_0FE81C3A0DB579C8" rendition="simple:additions"/>
+            <pb facs="unknown:030607_0002_0FE81C3A0DB579C8"
+                rendition="simple:additions"/>
             <head>PREFACE.</head>
             <p>MATTHIAS GOTLEIB was born in Pruſſia, and early in life en<g ref="char:EOLhyphen"/>gaged as a Soldier, and went through various ſcenes common to that calling, which we think not worth relating here: One thing however, he was re<g ref="char:EOLhyphen"/>markable for deſerting his poſt and ar<g ref="char:EOLhyphen"/>my, and liſting again from time to time, 'till he came to America, during the late war with Britain. After ſet<g ref="char:EOLhyphen"/>tling and moving ſeveral times, he came to Newton, in New-Jerſey, where he perpetrated the following act, of murdering his wife.</p>
             <p>"On the 19th day of December, 1795, he was about the village as uſu<g ref="char:EOLhyphen"/>al, and returned home intoxicated; his wife being diſpleaſed to ſee him in that ſituation, began to find fault with his conduct—he immediately got his
-<pb n="3" facs="tcp:030607_0003_0FE81C4051262EB8"/>
+<pb n="3" facs="unknown:030607_0003_0FE81C4051262EB8"/>
 butcher-knife, and aſked his ſon for a whet-ſtone, but the boy's mother or<g ref="char:EOLhyphen"/>dered him to his work, which he o<g ref="char:EOLhyphen"/>beyed. Gotleib then whet his knife on a board, and proceeded to ſtab his wife; he gave her three ſeperate ſtabs, one of which proved to be mortal, by paſſing through one of her inteſtines. He then attempted to make his eſcape, but was apprehended and confined in priſon. The unfortunate woman died the fifth day following, and a Coroner's inqueſt ſat over her body, of twenty-three good and lawful men; four ſur<g ref="char:EOLhyphen"/>geons were called to diſſect and exa<g ref="char:EOLhyphen"/>mine the body, and gave their opinion thereon—after the jurors had heard the teſtimony of the ſurgeons and witneſ<g ref="char:EOLhyphen"/>ſes, they found a verdict of wilful mur<g ref="char:EOLhyphen"/>der, committed by the hand of Mat<g ref="char:EOLhyphen"/>thias Gotleib. He continued in Jail 'till October 1796, when he was tried and convicted, by the moſt poſitive e<g ref="char:EOLhyphen"/>vidence, and executed accordingly.</p>
          </div>
          <div type="sermon">
-            <pb n="4" facs="tcp:030607_0004_0FE81C41DAEBA1D0"/>
+            <pb n="4" facs="unknown:030607_0004_0FE81C41DAEBA1D0"/>
             <p>THE words that I have choſed on this occaſion, as the foundation of the following diſcourſe, are recorded in
 <q>
                   <bibl>
@@ -148,7 +149,7 @@ butcher-knife, and aſked his ſon for a whet-ſtone, but the boy's mother or<g 
                   <item>I. STATE a number of thoſe ſins which ends in death, ei<g ref="char:EOLhyphen"/>ther temporal or eternal, except repentance takes place in the heart.</item>
                   <item>II. ENDEAVOUR to ſhew the propriety of that law of God and man, that annexes death to murder.</item>
                   <item>
-                     <pb n="5" facs="tcp:030607_0005_0FE81C481E0D63D0"/>III. MAKE an improvement ſuitable to the preſent oc<g ref="char:EOLhyphen"/>caſion.</item>
+                     <pb n="5" facs="unknown:030607_0005_0FE81C481E0D63D0"/>III. MAKE an improvement ſuitable to the preſent oc<g ref="char:EOLhyphen"/>caſion.</item>
                </list>
             </p>
             <p>AND firſt of thoſe ſins that end in death without repent<g ref="char:EOLhyphen"/>ance.</p>
@@ -159,7 +160,7 @@ butcher-knife, and aſked his ſon for a whet-ſtone, but the boy's mother or<g 
             <p>WE learn from the holy ſcriptures, how a juſt God, will deal with thoſe abominable ſinners.</p>
             <p>MURDERERS, whoremongers, and all lyers, ſhall have their
 <pb n="6"
-                   facs="tcp:030607_0006_0FE81C49A9C7A208"
+                   facs="unknown:030607_0006_0FE81C49A9C7A208"
                    rendition="simple:additions"/>
 part in the lake which burneth with fire and brimſtone, which is the ſecond death. <note n="†" place="bottom">
                   <hi>Rev.</hi> 21.8.</note>
@@ -173,7 +174,7 @@ part in the lake which burneth with fire and brimſtone, which is the ſecond de
             <p n="2">2. IT muſt be right and proper; as it comes from God, who is all perfection, wiſdom, power, juſtice, and mercy: His wiſdom has fired upon this puniſhment, who knows the whole nature of man.</p>
             <p>THE power of that God, who made all worlds, is able to diſcover and have it puniſhed; hence murder, by ſome mean or other, is generally found out; yes always, for if not in this world, it will ſurely be in the next. For juſtice muſt be executed, and mercy itſelf does not forbid it; for the ſame God that has declared, that, he that ſheddeth mans blood, by man ſhall his blood be ſhed, is all mercy as well as juſtice.</p>
             <p n="3">3. THE propriety of this, appears from its having been ſo general, in moſt of the nations of the earth, publicly exe<g ref="char:EOLhyphen"/>cute murderers; yes, many that are unacquainted with the ſcriptures. To confirm our opinion, we have the ſence of ancient and modern nations; of ſo many millions of wiſe Legiſlators and great Philoſophers. The wiſe king of Iſrael, ſays, in the multitude of counſellors, there is ſafety—and in<g ref="char:EOLhyphen"/>deed it appears ſo, from the reaſon and nature of things;
-<pb n="7" facs="tcp:030607_0007_0FE81C4FE440BF18"/>
+<pb n="7" facs="unknown:030607_0007_0FE81C4FE440BF18"/>
 that he who takes the life of another unjuſtly, ſhall looſe or forfeit his own in conſequence of it. It is neceſſary for the preſervation of the unalienable rights of ſociety, that every man ſhould be protected by the laws of his county; and if any body of law-givers, ſhould alleviate this puniſhment, who would be willing to be a citizen of that community.</p>
             <p n="3">3. AS we are fully convinced, of the propriety and juſ<g ref="char:EOLhyphen"/>tice of this law, as it has its ſanction from God and man; we ſhould not heſitate to do our duty in our ſeveral depart<g ref="char:EOLhyphen"/>ments, to ſee the law put in full execution, notwithſtanding our feelings of ſympathy—for a law, however juſt and righ<g ref="char:EOLhyphen"/>teous, if not put in force, proves no avail, but hardens and increaſes the offenders.</p>
             <p>THIS brings us to make an improvement, ſuitable to the preſent occaſion.</p>
@@ -182,7 +183,7 @@ that he who takes the life of another unjuſtly, ſhall looſe or forfeit his ow
             <p>PERHAPS few, who are brought to the gallows, for wilful murder, but what advance from ſtealing, lying, drunken<g ref="char:EOLhyphen"/>neſs, and various wicked practices, till at laſt they imbrue their hands in human blood.</p>
             <p n="3">3. WE might take notice, from the circumſtances before us, the degrees of wickedneſs, in murder itſelf. Is it ſinful to murder a ſtranger? A diſtant relation? It is ſtill more ſo to murder a brother, a ſiſter, a child! In a higher degree, it is abominable to murder a Father or Mother; but above all, a boſom companion—a wife—the partner of our joys— the ſoother of our miſeries! Eſpecially the huſband, the pro<g ref="char:EOLhyphen"/>tector, turning into the butcher, is horrible in every point of view.</p>
             <p n="4">
-               <pb n="8" facs="tcp:030607_0008_0FE7EBB4F4630A90"/>4. AND to you poor criminal, do not think that we wiſh to inſult you—no, we only wiſh to impreſs you with a feel<g ref="char:EOLhyphen"/>ing ſenſe of your crime, and the aggravated nature of your ſins. You have robbed your poor children of their Mother, and now the law of God and man, muſt take your life alſo, ſo that they are ſtripped of their Father and Mother. May God in his mercy take care of the orphans. I hope, yes believe, you feel ſorry for what you have done. Give yourſelf up to ſincere repentance and brokenneſs of heart, for your offences. Pardon may be poſſible—God is gracious to the true penitent—plead for his mercy, in and through the merits and attonement of Jeſus Chriſt—ſtrip yourſelf of all ſelf-righteouſneſs and creature performance.</p>
+               <pb n="8" facs="unknown:030607_0008_0FE7EBB4F4630A90"/>4. AND to you poor criminal, do not think that we wiſh to inſult you—no, we only wiſh to impreſs you with a feel<g ref="char:EOLhyphen"/>ing ſenſe of your crime, and the aggravated nature of your ſins. You have robbed your poor children of their Mother, and now the law of God and man, muſt take your life alſo, ſo that they are ſtripped of their Father and Mother. May God in his mercy take care of the orphans. I hope, yes believe, you feel ſorry for what you have done. Give yourſelf up to ſincere repentance and brokenneſs of heart, for your offences. Pardon may be poſſible—God is gracious to the true penitent—plead for his mercy, in and through the merits and attonement of Jeſus Chriſt—ſtrip yourſelf of all ſelf-righteouſneſs and creature performance.</p>
             <p n="8">8. YOU have juſtly forfeited your life to the ſtate and laws of our land—you have but a few moments to live—your glaſs is almoſt run—you are forbiden to behold the riſing of yonder fun again—to you it will ſet with eternal night—you muſt ſoon appear at the awful bar of Almighty God.—God pity and have mercy upon you.—Farewel.</p>
             <p n="9">9. SHALL we cloſe this memorable ſcene, without a word to the ſpectators.</p>
             <p>YOU ſee that this man muſt now die—do not ridicule him —but pray to God to keep you from thoſe ſins which led him to this horrid act—remember all ſin is deteſtable to God and Chriſt, and will come upon ſinners in an unexpected hour, when ye think not—be ye therefore alſo ready.—Avoid all ſin, eſpecially drunkenneſs, which urged on this man to mur<g ref="char:EOLhyphen"/>der his wife and companion.—Remember an intoxicated man looſes much of his reaſon, and turns into the ſcale of the inferior animals; avoid particularly, the riſing of your paſ<g ref="char:EOLhyphen"/>ſions—an angry man is an outrageous and deſperate creature. May the example before us, ſerve as a warning to us all.— May God give us ſincere contrition of ſoul, for all our ſins, and accept of us through Jeſus Chriſt.</p>
